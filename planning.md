@@ -3,7 +3,7 @@
 ## Business Case
 
 ### Problem statement
-Finding information about parks and green spaces in Bristol can be difficult when users do not know where to find reliable information about available locations. I am building an app that helps residents of Bristol find parks and green spaces in bristol.  My app aims to reduce that stress through filters on the app. The user just has to put in the location they want and filter according to their preferences. 
+Finding information about parks and green spaces in Bristol can be difficult when users do not know where to find reliable information about available locations. The Bristol Parks Explorer project aims to address this problem by developing a centralised, user-friendly web application that allows users to discover, search, filter and explore parks and green spaces across Bristol. Therefore, information about Bristol's public green spaces are easier to access, understand and navigate.
 
 ### Business benefits
 Improved accessibility: Makes information about Bristol's parks and green spaces easier for the public to find.
@@ -19,7 +19,7 @@ Go Jauntly: a walking app that helps users discover parks, green spaces and walk
 ### Expected Risks
 Data accuracy: Park information may be outdated or incomplete.
 Data availability: The dataset or external data source may not provide all the information required.
-Usability issues: Users may find the website difficult to navigate if the design is unclear.
+Poor user experience: Users may find the website difficult to navigate if the design is unclear.
 
 ## Project Scope
 Features in the scope:
