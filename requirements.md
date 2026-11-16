@@ -85,9 +85,7 @@ TODO: Describe each use case (at least one per team member).
 | -------------------------------------- | ------------------- |
 
 TODO: Your Use-Case diagram should include all use-cases.
-<a href="usecasediagram.pdf" target="_blank">
-    View PDF
-</a>
+![USE CASE](images/usecasedia.png)
 
 UseCase Diagram.asta
 file:///C:/Users/riwoo/Downloads/usecasediagram.pdf
